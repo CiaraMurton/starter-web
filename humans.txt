@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Princess Glittersparkles of clan Croaker
 
 # THANKS
 
-    <name>
+    Zeus
 
 # TECHNOLOGY COLOPHON
 
