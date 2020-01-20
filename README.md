@@ -1,4 +1,4 @@
-// Butts
+// Butts are dumb
 
 # Starter Web Repo
 
